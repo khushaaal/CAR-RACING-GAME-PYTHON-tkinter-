@@ -99,12 +99,14 @@ The highest score is automatically saved in `game_results.txt`.
 
 # 📷 Screenshot
 
-c:\Users\Dell\Documents\Downloads\project 4 main.PNG
+<img width="1600" height="860" alt="project 4 main" src="https://github.com/user-attachments/assets/68b7deb6-1b91-4e2a-a994-a1b65403745c" />
+
 
 Example:
 
 
-c:\Users\Dell\Documents\Downloads\project 4 a.PNG
+<img width="1600" height="860" alt="project 4 a" src="https://github.com/user-attachments/assets/cb90d75d-d4fb-4c22-ba73-1afd3ec72cfa" />
+
 
 
 ---
