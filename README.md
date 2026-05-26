@@ -42,7 +42,7 @@ Tkinter-Car-Racing-Game/
 ## 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/khushaaal/CAR-RACING-GAME-PYTHON-tkinter-
 ```
 
 ---
